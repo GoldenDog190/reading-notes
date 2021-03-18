@@ -8,4 +8,4 @@
 
 ## [Code 301 - Intermediate Software Development](https://github.com/GoldenDog190/reading-notes-301)
 
-## [Code 401 - Advanced Software Development]()
+## [Code 401 - Advanced Software Development](https://github.com/GoldenDog190/reading-notes-401-java)
